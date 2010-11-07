@@ -3,8 +3,8 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	1.0.4
-Release:	%mkrel 5
+Version:	1.0.5
+Release:	%mkrel 1
 Summary:	Geographical locations based on Internet address
 License:	PHP License
 Group:		Development/PHP
