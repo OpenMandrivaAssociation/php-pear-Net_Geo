@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.5
-Release:	4
+Release:	5
 Summary:	Geographical locations based on Internet address
 License:	PHP License
 Group:		Development/PHP
